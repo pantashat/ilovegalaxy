@@ -1,4 +1,1 @@
-- Hi! I’m Galaxy One!
-- I’m interested in Video Games and Art!
-- I’m currently learning Computer Mechanics
-- You can reach me on Discord: Galaxy One#7630
+
